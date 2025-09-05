@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shivam (shivsharcode)</h1>
 <h3 align="center">A passionate Machine Learning Developer</h3>
 
-- 🔭 I’m currently working on **Intelligrid**
+- 🔭 I’m currently working on **Image Compression using k-means clustering**, Here's the repo link 👉 <a href="https://github.com/shivsharcode/IMAGE-COMPRESSION-mini-project-kmeans-based-.git">Repo Link</a>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Unsupervised Machine Learning**
 
 - 💬 Ask me about **Machine Learning Algo**
 
 - 📫 How to reach me **shivshar16@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NTLkeYv1pTTu5ySR9WiFDplzm43K_Vib/view?usp=sharing](https://drive.google.com/file/d/1NTLkeYv1pTTu5ySR9WiFDplzm43K_Vib/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://abes365-my.sharepoint.com/:b:/g/personal/shivam_22b1531182_abes_ac_in/EUoHC1GIO0JEkdtMackamNQB4w_hmBvr3kCwAIOYUBxwQw?e=55SF2v)
 
 - ⚡ Fun fact **I talk to machines so much, even my coffee now comes with a confidence score ☕➡️ 0.98 “Highly likely to be a cappuccino"**
 
